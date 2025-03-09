@@ -41,7 +41,7 @@ const handleSendMessage = async () => {
   setIsTyping(true);
 
   try {
-    const response = await fetch('http://localhost:3000/ask-ai', {
+    const response = await fetch('https://socratic-teaching-assistant-rzbz.vercel.app/ask-ai', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ 
