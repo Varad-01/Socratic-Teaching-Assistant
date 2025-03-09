@@ -5,7 +5,7 @@ An AI-powered teaching assistant that helps students learn **Data Structures and
 ## 🛠️ **Tech Stack**
 - **Frontend:** React, Vite, ShadCN, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **AI Model:** Google Generative AI (Gemini 1.5 Pro)  
+- **AI Model:** Google Generative AI (Gemini 2.0 Flash)  
 - **Deployment:** Vercel (Frontend & Backend)
 
 ## 🎯 **Features**
